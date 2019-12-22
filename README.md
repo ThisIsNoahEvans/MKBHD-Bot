@@ -18,7 +18,7 @@ And finally, I used **time** to manage timings and to ensure the bot 'sleeps' fo
 
 ## Entries
 
-**entries.txt** is a text file that I keep updated with submissions from the Google Form (*mkbhd-bot.itsnoahevans.co.uk/submit*). Responses are moderated by myself every Saturday, unless the bot is running low on data and may shut down.
+**entries.txt** is a text file that I keep updated with submissions from the Google Form (*https://mkbhd-bot.itsnoahevans.co.uk/submit*). Responses are moderated by myself every Saturday, unless the bot is running low on data and may shut down.
 
 ## Thank You
 
