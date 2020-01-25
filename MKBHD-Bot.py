@@ -3,7 +3,7 @@ import random
 import tweepy
 import time
 
-#API, TTS Lang
+#API
 auth = tweepy.OAuthHandler("INSERT-YOUR-API", "INSERT-YOUR-API")
 auth.set_access_token("INSERT-YOUR-API", "INSERT-YOUR-API")
 api = tweepy.API(auth)
